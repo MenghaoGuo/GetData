@@ -7,8 +7,9 @@ import numpy as np
 import csv
 import math
 
+
 def just_a_test() :
-    pass
+    print ('push to new master')
 
 def getdata (path, num_of_row) :
     '''
