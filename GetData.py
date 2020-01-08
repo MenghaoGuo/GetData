@@ -5,6 +5,10 @@ import os
 import sys
 import numpy as np
 import csv
+import math
+
+def just_a_test() :
+    pass
 
 def getdata (path, num_of_row) :
     '''
